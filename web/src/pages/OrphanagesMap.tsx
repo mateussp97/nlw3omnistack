@@ -8,6 +8,7 @@ import 'leaflet/dist/leaflet.css';
 
 import '../styles/pages/orphanages-map.css';
 
+import logoImg from '../images/logo.svg';
 import mapMarkerImg from '../images/map-marker.svg';
 
 const mapIcon = Leaflet.icon({
@@ -22,7 +23,7 @@ function OrphanagesMap() {
         <div id="page-map">
             <aside>
                 <header>
-                    <img src={mapMarkerImg} alt="Happy"/>
+                    <img src={logoImg} alt="Happy"/>
 
                     <h2>Escolha um orfanato no mapa</h2>
                     <p>Muitas crianças estão esperando a sua visita :)</p>
