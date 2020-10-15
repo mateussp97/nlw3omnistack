@@ -22,6 +22,7 @@ function OrphanagesMap() {
             setOrphanages(response.data);
         });
     }, []);
+    
     return (
         <div id="page-map">
             <aside>
