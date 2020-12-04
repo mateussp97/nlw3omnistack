@@ -32,15 +32,15 @@ The main tools used to develop this were:
 
 ## To run
 
-# Clone the repository
+#### Clone the repository
 
 `git clone https://github.com/mateussp97/nlw3omnistack`
 
-# Enter the directory
+#### Enter the directory
 
 `cd nlw3omnistack`
 
-# Download the dependencies
+#### Download the dependencies
 
 `npm i`
 
